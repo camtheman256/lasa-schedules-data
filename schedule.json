@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Virtual",
+        "combinedAB": true,
+        "schedule": [
+            {
+                "name": "Advisory",
+                "startTime": "08:15",
+                "endTime": "09:15",
+                "runTime": "60"
+            },
+            {
+                "name": "1/5",
+                "startTime": "09:20",
+                "endTime": "10:50",
+                "runTime": "90"
+            },
+            {
+                "name": "2/6",
+                "startTime": "10:50",
+                "endTime": "12:20",
+                "runTime": "90"
+            },
+            {
+                "name": "Lunch",
+                "startTime": "12:20",
+                "endTime": "12:55",
+                "runTime": "35"
+            },
+            {
+                "name": "3/7",
+                "startTime": "12:55",
+                "endTime": "14:25",
+                "runTime": "90"
+            },
+            {
+                "name": "4/8",
+                "startTime": "14:25",
+                "endTime": "15:55",
+                "runTime": "90"
+            }
+        ]
+    },
+    {
+        "name": "C Day",
+        "combinedAB": true,
+        "schedule": [
+            {
+                "name": "1",
+                "startTime": "08:15",
+                "endTime": "09:00",
+                "runTime": "45"
+            },
+            {
+                "name": "2",
+                "startTime": "09:00",
+                "endTime": "09:45",
+                "runTime": "45"
+            },
+            {
+                "name": "3",
+                "startTime": "10:15",
+                "endTime": "11:00",
+                "runTime": "45"
+            },
+            {
+                "name": "4",
+                "startTime": "11:00",
+                "endTime": "11:45",
+                "runTime": "45"
+            },
+            {
+                "name": "Lunch",
+                "startTime": "11:45",
+                "endTime": "12:25",
+                "runTime": "40"
+            },
+            {
+                "name": "5",
+                "startTime": "12:25",
+                "endTime": "13:10",
+                "runTime": "45"
+            },
+            {
+                "name": "6",
+                "startTime": "13:10",
+                "endTime": "13:55",
+                "runTime": "45"
+            },
+            {
+                "name": "7",
+                "startTime": "14:25",
+                "endTime": "15:10",
+                "runTime": "45"
+            },
+            {
+                "name": "8",
+                "startTime": "15:10",
+                "endTime": "15:55",
+                "runTime": "45"
+            }
+        ]
+    }
+]
