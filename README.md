@@ -14,7 +14,7 @@ Updating the schedules can be done by editing the two JSON files in this repo. G
   "name": "Schedule Name",
   "combinedAB": true,
   "dates": ["1/1/19", ["1/2/19", "2/1/19"]],
-  "applyDay": "3",
+  "applyDay": 3,
   "schedule": [{
     "name": "Period Name",
     "startTime": "00:00",
