@@ -3,7 +3,11 @@ The repository for the [LASA Schedules 3](https://github.com/camtheman256/lasa-s
 
 ## Updating the Schedules
 
-Updating the schedules can be done by editing the two JSON files in this repo. GitHub Pages will automatically build and deploy all commits to https://schedules-data.lasa2019.com/, which is where LASA Schedules 3 pulls schedule data from.
+Updating the schedules can be done by editing the two JSON files in this repo.
+
+If you'd like to edit the schedules JSON in a graphical format, use [LASA Schedules Editor](https://schedules-editor.lasa2019.com).
+
+GitHub Pages will automatically build and deploy all commits to https://schedules-data.lasa2019.com/, which is where LASA Schedules 3 pulls schedule data from.
 
 ### `schedule.json`
 
