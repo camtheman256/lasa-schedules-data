@@ -100,5 +100,19 @@
                 "runTime": "45"
             }
         ]
+    },
+    {
+        "name": "Async",
+        "combinedAB": false,
+        "dates": [],
+        "schedule": [
+            {
+                "name": "Asynchronous",
+                "startTime": "08:15",
+                "endTime": "15:55",
+                "runTime": "460"
+            }
+        ],
+        "applyDay": 5
     }
 ]
