@@ -1,45 +1,81 @@
 [
     {
-        "name": "Virtual",
+        "name": "Standard",
         "combinedAB": true,
         "schedule": [
             {
-                "name": "Advisory",
-                "startTime": "08:15",
-                "endTime": "09:15",
-                "runTime": "60"
-            },
-            {
                 "name": "1/5",
-                "startTime": "09:20",
-                "endTime": "10:50",
-                "runTime": "90"
+                "startTime": "08:15",
+                "endTime": "09:50",
+                "runTime": "95"
             },
             {
                 "name": "2/6",
-                "startTime": "10:50",
-                "endTime": "12:20",
-                "runTime": "90"
+                "startTime": "09:55",
+                "endTime": "11:30",
+                "runTime": "95"
             },
             {
                 "name": "Lunch",
-                "startTime": "12:20",
-                "endTime": "12:55",
-                "runTime": "35"
+                "startTime": "11:35",
+                "endTime": "12:35",
+                "runTime": "60"
             },
             {
                 "name": "3/7",
-                "startTime": "12:55",
-                "endTime": "14:25",
-                "runTime": "90"
+                "startTime": "12:40",
+                "endTime": "14:15",
+                "runTime": "95"
             },
             {
                 "name": "4/8",
-                "startTime": "14:25",
+                "startTime": "14:20",
                 "endTime": "15:55",
-                "runTime": "90"
+                "runTime": "95"
             }
         ]
+    },
+    {
+        "schedule": [
+            {
+                "name": "1/5",
+                "startTime": "08:15",
+                "endTime": "09:40",
+                "runTime": "85"
+            },
+            {
+                "name": "Advisory",
+                "startTime": "09:45",
+                "endTime": "10:35",
+                "runTime": "50"
+            },
+            {
+                "name": "2/6",
+                "startTime": "10:40",
+                "endTime": "12:05",
+                "runTime": "85"
+            },
+            {
+                "name": "Lunch",
+                "startTime": "12:05",
+                "endTime": "12:55",
+                "runTime": "50"
+            },
+            {
+                "name": "3/7",
+                "startTime": "13:00",
+                "endTime": "14:25",
+                "runTime": "85"
+            },
+            {
+                "name": "4/8",
+                "startTime": "14:30",
+                "endTime": "15:55",
+                "runTime": "85"
+            }
+        ],
+        "name": "Advisory",
+        "combinedAB": true
     },
     {
         "name": "C Day",
@@ -53,44 +89,44 @@
             },
             {
                 "name": "2",
-                "startTime": "09:00",
-                "endTime": "09:45",
+                "startTime": "09:05",
+                "endTime": "09:50",
                 "runTime": "45"
             },
             {
                 "name": "3",
-                "startTime": "10:15",
-                "endTime": "11:00",
+                "startTime": "09:55",
+                "endTime": "10:40",
                 "runTime": "45"
             },
             {
                 "name": "4",
-                "startTime": "11:00",
-                "endTime": "11:45",
+                "startTime": "10:45",
+                "endTime": "11:30",
                 "runTime": "45"
             },
             {
                 "name": "Lunch",
-                "startTime": "11:45",
-                "endTime": "12:25",
-                "runTime": "40"
+                "startTime": "11:35",
+                "endTime": "12:35",
+                "runTime": "60"
             },
             {
                 "name": "5",
-                "startTime": "12:25",
-                "endTime": "13:10",
-                "runTime": "45"
+                "startTime": "12:35",
+                "endTime": "13:25",
+                "runTime": "50"
             },
             {
                 "name": "6",
-                "startTime": "13:10",
-                "endTime": "13:55",
+                "startTime": "13:30",
+                "endTime": "14:15",
                 "runTime": "45"
             },
             {
                 "name": "7",
-                "startTime": "14:25",
-                "endTime": "15:10",
+                "startTime": "14:20",
+                "endTime": "15:05",
                 "runTime": "45"
             },
             {
@@ -99,6 +135,9 @@
                 "endTime": "15:55",
                 "runTime": "45"
             }
+        ],
+        "dates": [
+            "12/14/2020"
         ]
     },
     {
