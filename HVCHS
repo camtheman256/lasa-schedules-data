@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Standard",
+        "combinedAB": true,
+        "schedule": [
+                       {
+                "name": "Recitation",
+                "startTime": "07:45",
+                "endTime": "08:20",
+                "runTime": "35"
+            },
+            {
+                "name": "Session 1",
+                "startTime": "08:30",
+                "endTime": "09:15",
+                "runTime": "45"
+            },
+            {
+                "name": "Session 2",
+                "startTime": "09:25",
+                "endTime": "10:10",
+                "runTime": "45"
+            },
+
+            {
+                "name": "Session 3",
+                "startTime": "10:20",
+                "endTime": "11:05",
+                "runTime": "45"
+            },
+            {
+                "name": "Session 4",
+                "startTime": "11:15",
+                "endTime": "12:00",
+                "runTime": "45"
+            },
+            {
+                "name": "Session 5",
+                "startTime": "13:00",
+                "endTime": "13:24",
+                "runTime": "24"
+            },
+            {
+                "name": "Session 6",
+                "startTime": "13:29",
+                "endTime": "13:51",
+                "runTime": "22"
+            },
+            {
+                "name": "Session 7",
+                "startTime": "13:56",
+                "endTime": "14:18",
+                "runTime": "22"
+            },
+            {
+                "name": "Session 8",
+                "startTime": "14:23",
+                "endTime": "14:45",
+                "runTime": "22"
+            }
+        ]
+    },
+    {
+        "name": "Async",
+        "combinedAB": false,
+        "dates": [],
+        "schedule": [
+            {
+                "name": "Asynchronous",
+                "startTime": "08:15",
+                "endTime": "15:55",
+                "runTime": "460"
+            }
+        ],
+        "applyDay": 5
+    }
+]
