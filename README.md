@@ -18,7 +18,7 @@ GitHub Pages will automatically build and deploy all commits to https://schedule
   "name": "Schedule Name",
   "combinedAB": true,
   "dates": ["1/1/19", ["1/2/19", "2/1/19"]],
-  "applyDay": 3,
+  "applyDay": [3],
   "schedule": [{
     "name": "Period Name",
     "startTime": "00:00",
@@ -34,7 +34,7 @@ GitHub Pages will automatically build and deploy all commits to https://schedule
 
 `dates`: This is an array of date strings in any Javascript `Date()` readable form. An array in this array specifies a range of dates that will be used.
 
-`applyDay`: This is a field that allows you to override the Standard schedule (the first one) for a specific day of the week. Note that days are 0-indexed, with 0 as Sunday and 6 as Saturday.
+`applyDay`: This is a field that allows you to override the Standard schedule (the first one) for specific days of the week. Note that days are 0-indexed, with 0 as Sunday and 6 as Saturday.
 
 `schedule`: an array of period objects.
 
