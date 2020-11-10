@@ -78,7 +78,8 @@
             }
         ],
         "name": "Advisory",
-        "combinedAB": true
+        "combinedAB": true,
+	"applyDay": [2, 3]
     },
     {
         "name": "C Day",
@@ -155,6 +156,6 @@
                 "runTime": "460"
             }
         ],
-        "applyDay": 5
+        "applyDay": [5]
     }
 ]
