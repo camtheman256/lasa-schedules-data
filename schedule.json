@@ -79,7 +79,10 @@
         ],
         "name": "Advisory",
         "combinedAB": true,
-	"applyDay": [2, 3]
+        "applyDay": [
+            2,
+            3
+        ]
     },
     {
         "name": "C Day",
@@ -156,6 +159,32 @@
                 "runTime": "460"
             }
         ],
-        "applyDay": [5]
+        "applyDay": [
+            5
+        ]
+    },
+    {
+        "name": "Finals",
+        "combinedAB": false,
+        "dates": [
+            [
+                "12/15/2020",
+                "12/18/2020"
+            ]
+        ],
+        "schedule": [
+            {
+                "name": "1st Final",
+                "startTime": "08:15",
+                "endTime": "10:15",
+                "runTime": "120"
+            },
+            {
+                "name": "2nd Final",
+                "startTime": "10:25",
+                "endTime": "12:25",
+                "runTime": "120"
+            }
+        ]
     }
 ]
