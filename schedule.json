@@ -35,7 +35,8 @@
             }
         ],
         "dates": [
-            "11/6/2020"
+            "11/6/2020",
+            "1/22/2021"
         ]
     },
     {
@@ -164,26 +165,47 @@
         ]
     },
     {
-        "name": "Finals",
+        "name": "Inauguration",
         "combinedAB": false,
         "dates": [
-            [
-                "12/15/2020",
-                "12/18/2020"
-            ]
+            "1/20/2021"
         ],
         "schedule": [
             {
-                "name": "1st Final",
+                "name": "1",
                 "startTime": "08:15",
-                "endTime": "10:15",
-                "runTime": "120"
+                "endTime": "09:40",
+                "runTime": "85"
             },
             {
-                "name": "2nd Final",
-                "startTime": "10:25",
-                "endTime": "12:25",
-                "runTime": "120"
+                "name": "2",
+                "startTime": "09:45",
+                "endTime": "11:10",
+                "runTime": "85"
+            },
+            {
+                "name": "Advisory",
+                "startTime": "11:15",
+                "endTime": "12:05",
+                "runTime": "50"
+            },
+            {
+                "name": "Lunch",
+                "startTime": "12:05",
+                "endTime": "12:55",
+                "runTime": "50"
+            },
+            {
+                "name": "3",
+                "startTime": "13:00",
+                "endTime": "14:25",
+                "runTime": "85"
+            },
+            {
+                "name": "4",
+                "startTime": "14:30",
+                "endTime": "15:55",
+                "runTime": "85"
             }
         ]
     }
