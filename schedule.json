@@ -163,44 +163,5 @@
         "applyDay": [
             5
         ]
-    },
-    {
-        "name": "Culture Day",
-        "combinedAB": false,
-        "dates": [
-            "2/12/2021"
-        ],
-        "schedule": [
-            {
-                "name": "Asynchronous",
-                "startTime": "08:15",
-                "endTime": "11:30",
-                "runTime": "195"
-            },
-            {
-                "name": "Lunch",
-                "startTime": "11:30",
-                "endTime": "12:30",
-                "runTime": "60"
-            },
-            {
-                "name": "Session 1",
-                "startTime": "12:45",
-                "endTime": "13:45",
-                "runTime": "60"
-            },
-            {
-                "name": "Session 2",
-                "startTime": "13:50",
-                "endTime": "14:50",
-                "runTime": "60"
-            },
-            {
-                "name": "Session 3",
-                "startTime": "14:55",
-                "endTime": "15:55",
-                "runTime": "60"
-            }
-        ]
     }
 ]
