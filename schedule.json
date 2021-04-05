@@ -151,7 +151,10 @@
     {
         "name": "Async",
         "combinedAB": false,
-        "dates": [],
+        "dates": [
+            "4/6/2021",
+            "4/8/2021"
+        ],
         "schedule": [
             {
                 "name": "Asynchronous",
