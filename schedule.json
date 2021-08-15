@@ -2,6 +2,7 @@
     {
         "name": "Standard",
         "combinedAB": true,
+        "dates": [],
         "schedule": [
             {
                 "name": "1/5",
@@ -11,8 +12,8 @@
             },
             {
                 "name": "2/6",
-                "startTime": "09:55",
-                "endTime": "11:30",
+                "startTime": "10:00",
+                "endTime": "11:35",
                 "runTime": "95"
             },
             {
@@ -23,8 +24,8 @@
             },
             {
                 "name": "3/7",
-                "startTime": "12:40",
-                "endTime": "14:15",
+                "startTime": "12:35",
+                "endTime": "14:10",
                 "runTime": "95"
             },
             {
@@ -33,13 +34,12 @@
                 "endTime": "15:55",
                 "runTime": "95"
             }
-        ],
-        "dates": [
-            "11/6/2020",
-            "1/22/2021"
         ]
     },
     {
+        "name": "Advisory",
+        "combinedAB": true,
+        "dates": [],
         "schedule": [
             {
                 "name": "1/5",
@@ -62,8 +62,8 @@
             {
                 "name": "Lunch",
                 "startTime": "12:05",
-                "endTime": "12:55",
-                "runTime": "50"
+                "endTime": "13:00",
+                "runTime": "55"
             },
             {
                 "name": "3/7",
@@ -78,16 +78,94 @@
                 "runTime": "85"
             }
         ],
-        "name": "Advisory",
-        "combinedAB": true,
         "applyDay": [
-            2,
-            3
+            5
+        ]
+    },
+    {
+        "name": "2hr Delay",
+        "combinedAB": true,
+        "dates": [],
+        "schedule": [
+            {
+                "name": "1/5",
+                "startTime": "10:15",
+                "endTime": "11:25",
+                "runTime": "70"
+            },
+            {
+                "name": "2/6",
+                "startTime": "11:35",
+                "endTime": "12:45",
+                "runTime": "70"
+            },
+            {
+                "name": "Lunch",
+                "startTime": "12:45",
+                "endTime": "13:25",
+                "runTime": "40"
+            },
+            {
+                "name": "3/7",
+                "startTime": "13:25",
+                "endTime": "14:35",
+                "runTime": "70"
+            },
+            {
+                "name": "4/8",
+                "startTime": "14:45",
+                "endTime": "15:55",
+                "runTime": "70"
+            }
+        ]
+    },
+    {
+        "name": "Pep Rally",
+        "combinedAB": true,
+        "dates": [],
+        "schedule": [
+            {
+                "name": "1/5",
+                "startTime": "08:15",
+                "endTime": "09:35",
+                "runTime": "80"
+            },
+            {
+                "name": "2/6",
+                "startTime": "09:45",
+                "endTime": "11:05",
+                "runTime": "80"
+            },
+            {
+                "name": "Lunch",
+                "startTime": "11:05",
+                "endTime": "12:05",
+                "runTime": "60"
+            },
+            {
+                "name": "3/7",
+                "startTime": "12:05",
+                "endTime": "13:25",
+                "runTime": "80"
+            },
+            {
+                "name": "4/8",
+                "startTime": "13:35",
+                "endTime": "15:00",
+                "runTime": "85"
+            },
+            {
+                "name": "Pep Rally",
+                "startTime": "15:00",
+                "endTime": "15:55",
+                "runTime": "55"
+            }
         ]
     },
     {
         "name": "C Day",
         "combinedAB": false,
+        "dates": [],
         "schedule": [
             {
                 "name": "1",
@@ -98,19 +176,19 @@
             {
                 "name": "2",
                 "startTime": "09:05",
-                "endTime": "09:50",
-                "runTime": "45"
+                "endTime": "09:55",
+                "runTime": "50"
             },
             {
                 "name": "3",
-                "startTime": "09:55",
-                "endTime": "10:40",
+                "startTime": "10:00",
+                "endTime": "10:45",
                 "runTime": "45"
             },
             {
                 "name": "4",
-                "startTime": "10:45",
-                "endTime": "11:30",
+                "startTime": "10:50",
+                "endTime": "11:35",
                 "runTime": "45"
             },
             {
@@ -122,72 +200,26 @@
             {
                 "name": "5",
                 "startTime": "12:35",
-                "endTime": "13:25",
-                "runTime": "50"
+                "endTime": "13:20",
+                "runTime": "45"
             },
             {
                 "name": "6",
-                "startTime": "13:30",
-                "endTime": "14:15",
+                "startTime": "13:25",
+                "endTime": "14:10",
                 "runTime": "45"
             },
             {
                 "name": "7",
-                "startTime": "14:20",
-                "endTime": "15:05",
+                "startTime": "14:15",
+                "endTime": "15:00",
                 "runTime": "45"
             },
             {
                 "name": "8",
-                "startTime": "15:10",
+                "startTime": "15:05",
                 "endTime": "15:55",
-                "runTime": "45"
-            }
-        ],
-        "dates": [
-            "12/14/2020"
-        ]
-    },
-    {
-        "name": "Async",
-        "combinedAB": false,
-        "dates": [
-            "4/6/2021",
-            "4/8/2021"
-        ],
-        "schedule": [
-            {
-                "name": "Asynchronous",
-                "startTime": "08:15",
-                "endTime": "15:55",
-                "runTime": "460"
-            }
-        ],
-        "applyDay": [
-            5
-        ]
-    },
-    {
-        "name": "Finals",
-        "combinedAB": false,
-        "dates": [
-            [
-                "5/28/2021",
-                "6/3/2021"
-            ]
-        ],
-        "schedule": [
-            {
-                "name": "1st Final",
-                "startTime": "08:15",
-                "endTime": "10:15",
-                "runTime": "120"
-            },
-            {
-                "name": "2nd Final",
-                "startTime": "10:25",
-                "endTime": "12:25",
-                "runTime": "120"
+                "runTime": "50"
             }
         ]
     }
