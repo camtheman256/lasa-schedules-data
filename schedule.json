@@ -48,22 +48,22 @@
                 "runTime": "85"
             },
             {
-                "name": "Advisory",
-                "startTime": "09:45",
-                "endTime": "10:35",
-                "runTime": "50"
-            },
-            {
                 "name": "2/6",
-                "startTime": "10:40",
-                "endTime": "12:05",
+                "startTime": "09:45",
+                "endTime": "11:10",
                 "runTime": "85"
             },
             {
+                "name": "Advisory (2/6)",
+                "startTime": "11:10",
+                "endTime": "12:00",
+                "runTime": "50"
+            },
+            {
                 "name": "Lunch",
-                "startTime": "12:05",
+                "startTime": "12:00",
                 "endTime": "13:00",
-                "runTime": "55"
+                "runTime": "60"
             },
             {
                 "name": "3/7",
@@ -83,44 +83,71 @@
         ]
     },
     {
-        "name": "2hr Delay",
-        "combinedAB": true,
-        "dates": [],
+        "name": "C Day",
+        "combinedAB": false,
+        "dates": [
+            "12/15/2022",
+            "5/19/2023"
+        ],
         "schedule": [
             {
-                "name": "1/5",
-                "startTime": "10:15",
-                "endTime": "11:25",
-                "runTime": "70"
+                "name": "1",
+                "startTime": "08:15",
+                "endTime": "09:00",
+                "runTime": "45"
             },
             {
-                "name": "2/6",
-                "startTime": "11:35",
-                "endTime": "12:45",
-                "runTime": "70"
+                "name": "2",
+                "startTime": "09:05",
+                "endTime": "10:00",
+                "runTime": "55"
+            },
+            {
+                "name": "3",
+                "startTime": "10:05",
+                "endTime": "10:50",
+                "runTime": "45"
+            },
+            {
+                "name": "4",
+                "startTime": "10:55",
+                "endTime": "11:40",
+                "runTime": "45"
             },
             {
                 "name": "Lunch",
-                "startTime": "12:45",
+                "startTime": "11:40",
+                "endTime": "12:40",
+                "runTime": "60"
+            },
+            {
+                "name": "5",
+                "startTime": "12:40",
                 "endTime": "13:25",
-                "runTime": "40"
+                "runTime": "45"
             },
             {
-                "name": "3/7",
-                "startTime": "13:25",
-                "endTime": "14:35",
-                "runTime": "70"
+                "name": "6",
+                "startTime": "13:30",
+                "endTime": "14:15",
+                "runTime": "45"
             },
             {
-                "name": "4/8",
-                "startTime": "14:45",
+                "name": "7",
+                "startTime": "14:20",
+                "endTime": "15:05",
+                "runTime": "45"
+            },
+            {
+                "name": "8",
+                "startTime": "15:10",
                 "endTime": "15:55",
-                "runTime": "70"
+                "runTime": "45"
             }
         ]
     },
     {
-        "name": "Pep Rally",
+        "name": "Pep rally",
         "combinedAB": true,
         "dates": [],
         "schedule": [
@@ -133,26 +160,26 @@
             {
                 "name": "2/6",
                 "startTime": "09:45",
-                "endTime": "11:05",
-                "runTime": "80"
+                "endTime": "11:10",
+                "runTime": "85"
             },
             {
                 "name": "Lunch",
-                "startTime": "11:05",
-                "endTime": "12:05",
+                "startTime": "11:10",
+                "endTime": "12:10",
                 "runTime": "60"
             },
             {
                 "name": "3/7",
-                "startTime": "12:05",
-                "endTime": "13:25",
+                "startTime": "12:10",
+                "endTime": "13:30",
                 "runTime": "80"
             },
             {
                 "name": "4/8",
-                "startTime": "13:35",
+                "startTime": "13:40",
                 "endTime": "15:00",
-                "runTime": "85"
+                "runTime": "80"
             },
             {
                 "name": "Pep Rally",
@@ -163,63 +190,39 @@
         ]
     },
     {
-        "name": "C Day",
-        "combinedAB": false,
+        "name": "2hr Delay",
+        "combinedAB": true,
         "dates": [],
         "schedule": [
             {
-                "name": "1",
-                "startTime": "08:15",
-                "endTime": "09:00",
-                "runTime": "45"
+                "name": "1/5",
+                "startTime": "10:15",
+                "endTime": "11:25",
+                "runTime": "70"
             },
             {
-                "name": "2",
-                "startTime": "09:05",
-                "endTime": "09:55",
-                "runTime": "50"
-            },
-            {
-                "name": "3",
-                "startTime": "10:00",
-                "endTime": "10:45",
-                "runTime": "45"
-            },
-            {
-                "name": "4",
-                "startTime": "10:50",
-                "endTime": "11:35",
-                "runTime": "45"
+                "name": "2/6",
+                "startTime": "11:30",
+                "endTime": "12:45",
+                "runTime": "75"
             },
             {
                 "name": "Lunch",
-                "startTime": "11:35",
-                "endTime": "12:35",
-                "runTime": "60"
-            },
-            {
-                "name": "5",
-                "startTime": "12:35",
-                "endTime": "13:20",
+                "startTime": "12:45",
+                "endTime": "13:30",
                 "runTime": "45"
             },
             {
-                "name": "6",
-                "startTime": "13:25",
-                "endTime": "14:10",
-                "runTime": "45"
+                "name": "3/7",
+                "startTime": "13:30",
+                "endTime": "14:40",
+                "runTime": "70"
             },
             {
-                "name": "7",
-                "startTime": "14:15",
-                "endTime": "15:00",
-                "runTime": "45"
-            },
-            {
-                "name": "8",
-                "startTime": "15:05",
+                "name": "4/8",
+                "startTime": "14:45",
                 "endTime": "15:55",
-                "runTime": "50"
+                "runTime": "70"
             }
         ]
     }
